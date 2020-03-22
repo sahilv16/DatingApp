@@ -80,8 +80,7 @@ npm start
 
 # App Info
 ### Author 
-Shubham Singal
-
+Sahil Verma
 ---
 
 ### Version 
